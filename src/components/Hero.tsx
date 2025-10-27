@@ -339,7 +339,7 @@ export const Hero = () => {
                 <ArrowDown className="group-hover:translate-y-1 transition-transform" />
               </motion.button>
               <motion.a
-                href="/assets/resume.pdf"
+                href="src/assets/resume.pdf"
                 download
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
